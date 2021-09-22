@@ -60,4 +60,15 @@ img{
   background-color: white;
   height: 600px;
   width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.result{
+  top:0;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: max-content;
+  padding-top: 10px;
+  
 }
